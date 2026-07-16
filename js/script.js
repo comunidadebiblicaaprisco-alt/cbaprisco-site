@@ -1,0 +1,1 @@
+console.log('APRISCO V2 carregado');
